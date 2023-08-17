@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1A2470",
+        "titleBar.activeBackground": "#25339D",
+        "titleBar.activeForeground": "#F9FAFE"
+    },
+    "dotnet.defaultSolution": "DatingApp.sln"
+}
